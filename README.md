@@ -1,7 +1,3 @@
-# me
+# Rhysdh540
 
-hi
-
-i'm rhys
-
-and sometimes i think about it
+![test](https://github-readme-stats.vercel.app/api?username=rhysdh540&theme=github_dark&show_icons=true)
