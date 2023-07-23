@@ -1,5 +1,8 @@
 # rhysdh540
 
-![test](https://github-readme-stats.vercel.app/api?username=rhysdh540&theme=github_dark&show_icons=true&count_private=true)
+<div align="center">
+  [![Repos Badge](https://badges.strrl.dev/repos/rhysdh540)](https://badges.strrl.dev) [![Commits Badge](https://badges.strrl.dev/commits/all/rhysdh540)](https://badges.strrl.dev) [![Contributions Badge](https://badges.strrl.dev/contributions/all/rhysdh540)](https://badges.strrl.dev) [![Years Badge](https://badges.strrl.dev/years/rhysdh540)](https://badges.strrl.dev)
 
-i'll do it later
+
+  ![Metrics](https://raw.githubusercontent.com/rhysdh540/rhysdh540/master/github-metrics.svg)
+</div>
