@@ -32,13 +32,3 @@ jobs:
           plugin_people: no
           plugin_projects: no
           plugin_stars: no
-
-      - run: |
-          set +e
-          git checkout metrics-renders
-          git config user.name rhysdh540
-          git config user.email 98863820+rhysdh540@users.noreply.github.com
-          sudo mv /metrics_renders/* ./
-          git add --all
-          git commit -m "metrics update"
-          git push
