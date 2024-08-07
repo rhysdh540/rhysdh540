@@ -13,6 +13,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRlCS_TOKEN }}
+          output_action: none
 
           # Options
           user: rhysdh540
